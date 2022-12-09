@@ -3,47 +3,47 @@
     {
       "id": 1,
       "title": "Halálos iramban",
-      "age-rest": "16"
+      "agerest": "16"
     },
 	{
       "id": 2,
       "title": "Halálosabb iramban",
-      "age-rest": "12"
+      "agerest": "12"
     },
 	{
       "id": 3,
       "title": "Halálos iramban: Tokiói hajsza",
-      "age-rest": "12"
+      "agerest": "12"
     },
 	{
       "id": 4,
       "title": "Halálos iram",
-      "age-rest": "16"
+      "agerest": "16"
     },
 	{
       "id": 5,
       "title": "Halálos iramban: Ötödik sebesség",
-      "age-rest": "16"
+      "agerest": "16"
     },
 	{
       "id": 6,
       "title": "Halálos iramban 6.",
-      "age-rest": "16"
+      "agerest": "16"
     },
 	{
       "id": 7,
       "title": "Halálos iramban 7.",
-      "age-rest": "16"
+      "agerest": "16"
     },
 	{
       "id": 8,
       "title": "Halálos iramban 8.",
-      "age-rest": "16"
+      "agerest": "16"
     },
 	{
       "id": 9,
       "title": "Halálos iramban 9.",
-      "age-rest": "16"
+      "agerest": "16"
     }
   ]
 }
